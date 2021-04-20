@@ -28,6 +28,48 @@
   color: #61dafb;
 }
 
+.btn {
+  padding: 0.65em 1em;
+}
+.priceTick {
+  font-size: 24px;
+  color: #f4590b;
+}
+
+.btn-primary {
+  background-color: #083e9b;
+  border-color: #083e9b;
+}
+.price-cycle {
+  color: #f4590b;
+}
+.comingSoonText {
+  color: #f4590b;
+}
+.pricing-feature-list {
+  text-align: left;
+}
+.priceTextWp {
+  font-size: 18px;
+}
+.priceTextVps {
+  font-size: 18px;
+  text-decoration: line-through;
+}
+.TextPriceCOllege {
+  font-weight: bold;
+}
+.tomcatprice {
+  font-size: 12px;
+  color: #f4590b;
+}
+
+/* .linuxBgImage {
+  background: url("public/assets/img/hero-offer-bg.svg") no-repeat center center /
+    cover;
+  opacity: 1;
+} */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
